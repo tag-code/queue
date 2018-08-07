@@ -1,0 +1,14 @@
+{
+  "name": "tag-code/queue",
+  "description": "",
+  "require": {
+    "php": ">=5.6.0",
+  },
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "tagCode\\": "./src/"
+    }
+  }
+}
